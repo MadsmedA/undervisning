@@ -11,14 +11,12 @@ function clear () {
     console.clear();
 }
 
-/*
-Function expression
-let hello = function () {
-    console.log("hello");
-}
+// Function expression
+// let hello = function () {
+//     console.log("hello");
+// }
 
-Arrow function
-let hello = () => {
-    console.log("hello");
-}
-*/
+// Arrow function
+// let hello = () => {
+//     console.log("hello");
+// }
